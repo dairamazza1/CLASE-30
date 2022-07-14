@@ -1,4 +1,8 @@
--------- Comandos Usados -------- 1° Parte node server.js CLUSTER
+-------- Comandos Usados -------- 
+
+1° Parte 
+
+node server.js CLUSTER
 
 forever start server.js 
 forever list
