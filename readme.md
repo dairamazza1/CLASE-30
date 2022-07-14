@@ -14,6 +14,7 @@ pm2 list
 pm2 start server.js --name="serverCLUSTER" --watch -i max -- CLUSTER pm2 list
 
 Configurar archivo nginx.conf
+    
     start nginx
     tasklist /fi "imagename eq nginx.exe"
     ./nginx.exe -s reload
